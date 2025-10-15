@@ -62,7 +62,7 @@ With hands-on experience in projects and real-world simulations, I bring practic
 
 ## Certifications
 <div>
-<img src="https://comptiawebsite.blob.core.windows.net/webcontent/images/default-source/siteicons/logosecurityplus.svg?sfvrsn=5ee1de19_2" />
+<img src="https://images.credly.com/size/340x340/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" />
 </div>
 
 ## Projects
