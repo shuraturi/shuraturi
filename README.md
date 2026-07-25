@@ -24,7 +24,7 @@ A self-hosted mail server built with open source tools that scans incoming mail 
 ### Home Network (1+ year uptime)
 OPNsense running on a Dell OptiPlex 3050, with my ISP router in bridge mode. Three VLANs (trusted LAN, wireless, homelab) across a managed TP-Link switch. Proxmox hosts AdGuard for DNS filtering, Arcane for managing containers, and Proxmox Backup Server. This is the network everything else above runs on. [Old homelab repo here](https://github.com/AlbedoAi/home-lab). I'm redoing some of the VLAN layout right now and will post an updated writeup after.
 
-### Business Website
+### [Business Website](https://indianoceancalgary.ca)
 Designed and built a website for a local business.
 
 ---
